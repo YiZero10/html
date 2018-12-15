@@ -1,0 +1,42 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#text {
+  font-size: 23px;
+}
+#free {
+  color: #3487ff;
+}
+#name {
+  width: 360px;
+  height: 45px;
+}
+#password {
+  width: 360px;
+  height: 45px;
+}
+#telephonenumber {
+  width: 360px;
+  height: 45px;
+}
+#p {
+  color: gray;
+  font-size: 0.7rem;
+}
+#number {
+  width: 120px;
+  height: 45px;
+}
+button {
+  font-size: 18px;
+  background-color: #3487ff;
+  width: 360px;
+  height: 45px;
+}
+#word {
+  font-size: 12px;
+  color: #bbb;
+  margin: 30px;
+}
